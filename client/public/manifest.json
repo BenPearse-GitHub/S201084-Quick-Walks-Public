@@ -1,0 +1,15 @@
+{
+  "short_name": "Quick Walks",
+  "name": "Quick Walks - Discover short walks near you",
+  "icons": [
+    {
+      "src": "./images/logo.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#01845D",
+  "background_color": "#ffffff"
+}
